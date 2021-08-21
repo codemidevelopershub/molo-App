@@ -30,7 +30,7 @@ Navigate to the sign in and simple follow the various forms as shown below
 
 After you've signed up, you'll get this message which you should then be directed to the sign in part.
 
-!
+![email](email.jpeg)
 ![signin](signin.png)
 
 simply fill in the data which you generated during the sign up, this will take you to the user dashboard.
