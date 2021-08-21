@@ -28,9 +28,9 @@ Navigate to the sign in and simple follow the various forms as shown below
 
 ![signup](signup.png)
 
-After you've signed up you should be directed to the sign in part which is:
+After you've signed up, you'll get this message which you should then be directed to the sign in part.
 
-
+!
 ![signin](signin.png)
 
 simply fill in the data which you generated during the sign up, this will take you to the user dashboard.
