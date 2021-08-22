@@ -157,4 +157,4 @@ Please follow the following sequentially to test:
 ## Contact us
 - [Twitter]()
 - [github]()
-- [Email](https://mail.google.com/mail/)
+- [Email]()
